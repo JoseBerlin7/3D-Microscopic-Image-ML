@@ -1,3 +1,0 @@
-tifffile 
-matplotlib 
-napari[all]

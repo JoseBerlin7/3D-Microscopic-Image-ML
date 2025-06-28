@@ -2,11 +2,11 @@
 
 Step 1:
 
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+create the environment using env.yaml file
 
 Step 2:
 
-.\env\Scripts\activate
+python prep.py
 
 Step 3:
 
